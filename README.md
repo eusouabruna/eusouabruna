@@ -7,9 +7,10 @@ Estou em transição de carreira para a área de tecnologia cursando Ciência da
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>  
 
-### Atualmente estudando  
-🌱SQL  
-🌱Inglês  
+### 🌱 Atualmente estudando  
+* SQL 
+* Java
+* Inglês  
 
 ### 🤖 Linguagens e Tecnologias
 
